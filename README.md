@@ -100,6 +100,4 @@ $ yarn start
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
----
 
-Feito com amor por [William Amorim](https://www.linkedin.com/in/willmorim/) 💜
